@@ -1,0 +1,43 @@
+# Current time Sat Nov 25 11:20:26 2023
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.3f"
+# Version = "2008.02"
+# Date = "Feb 28 2008"
+# Platform = win32
+
+Exception c0000005 has occurred at address 004eef4e. Traceback:
+# 0    0x004eef4e: 'Mtirpc_Init + 0x92a4e'
+# 1    0x004ef200: 'Mtirpc_Init + 0x92d00'
+# 2    0x00501b1c: 'Mtirpc_Init + 0xa561c'
+# 3    0x004e7510: 'Mtirpc_Init + 0x8b010'
+# 4    0x005017a8: 'Mtirpc_Init + 0xa52a8'
+# 5    0x00502ab3: 'Mtirpc_Init + 0xa65b3'
+# 6    0x004dc79b: 'Mtirpc_Init + 0x8029b'
+# 7    0x0042539a: '<unknown (@0x42539a)>'
+# 8    0x0121d52b: 'TclEvalObjvInternal + 0x24b'
+# 9    0x0123cad7: 'TclCompEvalObj + 0x637'
+# 10   0x0123c590: 'TclCompEvalObj + 0xf0'
+# 11   0x0126383a: 'TclObjInterpProc + 0x26a'
+# 12   0x0121d52b: 'TclEvalObjvInternal + 0x24b'
+# 13   0x0123cad7: 'TclCompEvalObj + 0x637'
+# 14   0x0123c590: 'TclCompEvalObj + 0xf0'
+# 15   0x0126383a: 'TclObjInterpProc + 0x26a'
+# 16   0x0121d52b: 'TclEvalObjvInternal + 0x24b'
+# 17   0x0123cad7: 'TclCompEvalObj + 0x637'
+# 18   0x0123c590: 'TclCompEvalObj + 0xf0'
+# 19   0x0126383a: 'TclObjInterpProc + 0x26a'
+# 20   0x0121d52b: 'TclEvalObjvInternal + 0x24b'
+# 21   0x0123cad7: 'TclCompEvalObj + 0x637'
+# 22   0x0123c590: 'TclCompEvalObj + 0xf0'
+# 23   0x0121e159: 'Tcl_EvalObjEx + 0x59'
+# 24   0x0122adc2: 'Tcl_SwitchObjCmd + 0x3a2'
+# 25   0x0121d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x0123cad7: 'TclCompEvalObj + 0x637'
+# 27   0x0123c590: 'TclCompEvalObj + 0xf0'
+# 28   0x0121e159: 'Tcl_EvalObjEx + 0x59'
+# 29   0x04969390: 'Itcl_EvalMemberCode + 0x210'
+# 30   0x07e0a118: '<unknown (@0x7e0a118)>'
+StackWalk failed 126
+# End of Stack Trace
+
